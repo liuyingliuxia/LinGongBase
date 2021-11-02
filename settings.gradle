@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 rootProject.name = "LinGongBase"
 include ':app'
 include ':devtools'
+include ':base'
